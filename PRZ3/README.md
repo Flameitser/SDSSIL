@@ -76,4 +76,19 @@
 
 ![image](https://github.com/user-attachments/assets/81068543-0982-4db6-bd44-42fae77ac486)
 
+Просмотр логов
+
+![image](https://github.com/user-attachments/assets/fc216ef6-e4c6-4b47-ae61-efb6c692053d)
+
+![image](https://github.com/user-attachments/assets/d68aac14-bb0b-4f8f-910b-36cda94624a0)
+
+![image](https://github.com/user-attachments/assets/f5f29624-292d-4dcb-b572-cad71e683045)
+
+![image](https://github.com/user-attachments/assets/e2686439-eb4d-44d7-ac01-cffbaadaf236)
+
+![image](https://github.com/user-attachments/assets/30374306-b7cc-4538-bd02-02f47711626b)
+
+![image](https://github.com/user-attachments/assets/46b97794-46e5-4e8a-bf53-b419c230f797)
+
+
 
