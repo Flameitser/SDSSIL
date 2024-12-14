@@ -69,6 +69,11 @@
 
 ## Выявление уязвимостей
 
+Внесенные в файл ossec.conf изменения
+![image](https://github.com/user-attachments/assets/7325af33-2c44-4f47-a604-f8531dc2caf2)
 
+Выявление уязвимостей пакетов на клиенте ("агенте")
+
+![image](https://github.com/user-attachments/assets/81068543-0982-4db6-bd44-42fae77ac486)
 
 
