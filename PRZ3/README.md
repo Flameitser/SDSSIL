@@ -28,7 +28,7 @@
 
 ## 4. Проверка видимости друг-друга
 
-![image](https://github.com/user-attachments/assets/8856d1f2-5ea0-4242-a95e-5f1d9ce15d4a)
+
 
 
 
@@ -74,7 +74,8 @@
 
 Выявление уязвимостей пакетов на клиенте ("агенте")
 
-![image](https://github.com/user-attachments/assets/81068543-0982-4db6-bd44-42fae77ac486)
+![image](https://github.com/user-attachments/assets/697feb4b-f454-40ca-b51b-1f7832a81b92)
+
 
 Просмотр логов
 
