@@ -28,7 +28,8 @@
 
 ## 4. Проверка видимости друг-друга
 
-![image](https://github.com/user-attachments/assets/402e7574-cfc8-44c1-b7e7-8c066c7db074)
+![image](https://github.com/user-attachments/assets/8856d1f2-5ea0-4242-a95e-5f1d9ce15d4a)
+
 
 
 
