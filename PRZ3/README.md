@@ -62,7 +62,12 @@
 
 Установленный агент
 
-![image](https://github.com/user-attachments/assets/0e363a84-8d77-4cce-a5d0-f4d50dd68344)
+![image](https://github.com/user-attachments/assets/b90c15db-5dc0-46df-8f19-9a637bf39fce)
+
+![image](https://github.com/user-attachments/assets/f8bdfd94-5763-4b9a-8792-af8f03c2ec20)
+
+
+## Выявление уязвимостей
 
 
 
