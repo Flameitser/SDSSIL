@@ -41,6 +41,7 @@
 ![image](https://github.com/user-attachments/assets/7bab5869-4dd0-4978-9e88-e8e5866b90cb)
 
 После установки перейдем по ссылке "https://localhost/app/wazuh" для входа в веб-версию
+
 Логин и пароль для входа ниже
 
 ![image](https://github.com/user-attachments/assets/4a2b70ea-bf00-427b-a09a-46a245a1fe8e)
@@ -60,14 +61,14 @@
 
 ![image](https://github.com/user-attachments/assets/6f66f738-8001-4b47-86d4-1e947132193f)
 
-Установленный агент
+## 6. Установленный агент
 
 ![image](https://github.com/user-attachments/assets/b90c15db-5dc0-46df-8f19-9a637bf39fce)
 
 ![image](https://github.com/user-attachments/assets/f8bdfd94-5763-4b9a-8792-af8f03c2ec20)
 
 
-## Выявление уязвимостей
+## 7. Выявление уязвимостей
 
 Внесенные в файл ossec.conf изменения
 ![image](https://github.com/user-attachments/assets/7325af33-2c44-4f47-a604-f8531dc2caf2)
@@ -77,7 +78,7 @@
 ![image](https://github.com/user-attachments/assets/697feb4b-f454-40ca-b51b-1f7832a81b92)
 
 
-Просмотр логов
+## 8. Просмотр логов
 
 ![image](https://github.com/user-attachments/assets/fc216ef6-e4c6-4b47-ae61-efb6c692053d)
 
