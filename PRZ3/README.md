@@ -61,6 +61,7 @@
 
 Установленный агент
 
-![image](https://github.com/user-attachments/assets/c689ed6c-27e5-4ab8-8d73-d943f2de1620)
+![image](https://github.com/user-attachments/assets/b18a8082-5c4e-4f39-ada4-0b55f7ca25c4)
+
 
 
