@@ -15,3 +15,27 @@
 ## 2. Установка образа
 
 ![image](https://github.com/user-attachments/assets/bef205cb-33bd-40a2-8084-361d691978b1)
+
+
+
+## 3. Проверка сетевой связности
+
+![image](https://github.com/user-attachments/assets/135a98b7-a5b0-42b8-9bd5-a2a430cee19c)
+
+
+![image](https://github.com/user-attachments/assets/2aa91d47-51e1-4d57-906d-adab3f912602)
+
+
+## 4. Проверка видимости друг-друга
+
+![image](https://github.com/user-attachments/assets/402e7574-cfc8-44c1-b7e7-8c066c7db074)
+
+
+
+## 5. Установка Wazuh
+
+Заходим под рутом и вводим команду " curl -sO htt://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a " для установки
+Так же нужно добавить флаг -i, чтобы убрать предупреждение
+
+![image](https://github.com/user-attachments/assets/7bab5869-4dd0-4978-9e88-e8e5866b90cb)
+
