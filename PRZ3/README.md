@@ -52,7 +52,15 @@
 
 ![image](https://github.com/user-attachments/assets/a326c574-1d5b-4e77-93ac-9056f0734025)
 
+![image](https://github.com/user-attachments/assets/615f4094-6f73-4247-9c9b-d5a672c53a25)
+
+
 ![image](https://github.com/user-attachments/assets/6c49d0c7-c0f0-4d18-a851-36127347a150)
 
 ![image](https://github.com/user-attachments/assets/6f66f738-8001-4b47-86d4-1e947132193f)
+
+Установленный агент
+
+![image](https://github.com/user-attachments/assets/c689ed6c-27e5-4ab8-8d73-d943f2de1620)
+
 
