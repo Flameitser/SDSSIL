@@ -39,3 +39,13 @@
 
 ![image](https://github.com/user-attachments/assets/7bab5869-4dd0-4978-9e88-e8e5866b90cb)
 
+После установки перейдем по ссылке "https://localhost/app/wazuh" для входа в веб-версию
+Логин и пароль для входа ниже
+
+![image](https://github.com/user-attachments/assets/4a2b70ea-bf00-427b-a09a-46a245a1fe8e)
+
+![image](https://github.com/user-attachments/assets/c78e8504-865f-413d-a586-77ec61f6c166)
+
+![image](https://github.com/user-attachments/assets/ddaad55d-6783-4f7e-a689-a5c2ec750833)
+
+
