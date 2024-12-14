@@ -46,6 +46,13 @@
 
 ![image](https://github.com/user-attachments/assets/c78e8504-865f-413d-a586-77ec61f6c166)
 
+Нажимаем add agent
+
 ![image](https://github.com/user-attachments/assets/ddaad55d-6783-4f7e-a689-a5c2ec750833)
 
+![image](https://github.com/user-attachments/assets/a326c574-1d5b-4e77-93ac-9056f0734025)
+
+![image](https://github.com/user-attachments/assets/6c49d0c7-c0f0-4d18-a851-36127347a150)
+
+![image](https://github.com/user-attachments/assets/6f66f738-8001-4b47-86d4-1e947132193f)
 
