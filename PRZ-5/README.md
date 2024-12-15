@@ -74,3 +74,11 @@
 
 ![image](https://github.com/user-attachments/assets/5044ec32-969e-42bc-96b0-343a59724fb9)
 
+![image](https://github.com/user-attachments/assets/3b4b45a8-7517-4597-abe8-01cc20670b88)
+
+
+## 8. Логи Suricata
+
+![image](https://github.com/user-attachments/assets/aa1812ea-7839-4426-8e31-02e0ae229fc7)
+
+
