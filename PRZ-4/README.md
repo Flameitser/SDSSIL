@@ -14,7 +14,9 @@
 ![image](https://github.com/user-attachments/assets/2d362c22-5b8c-46fe-add9-444f28cbc229)
 
 Логин и пароль для входа в веб-версию:
+
  Name: threat@activecountermeasures.com
+ 
  Pass: hunting2
 
 
