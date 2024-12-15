@@ -62,7 +62,8 @@
 
 ## 6. Скачиваем Suricata на клиентскую ВМ
 
-![image](https://github.com/user-attachments/assets/f6a412ca-dfc7-42c5-902d-4159089b7282)
+![image](https://github.com/user-attachments/assets/489f7c3f-2ea8-48f8-8490-67866002c9e3)
+
 
 ![image](https://github.com/user-attachments/assets/5bf26f17-3be2-4582-a67d-423b59775058)
 
