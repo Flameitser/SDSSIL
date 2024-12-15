@@ -95,3 +95,14 @@
 ## 10. Установка Yara на клиентскую ВМ
 
 ![image](https://github.com/user-attachments/assets/8c7be745-0a66-409d-9779-90e93f3441d3)
+
+## 11. Скрипт yara.sh для получения данных в Wazuh
+
+![image](https://github.com/user-attachments/assets/9f330858-3832-4ece-8c85-cadd95d53574)
+
+## 12. Настройка Серверной ВМ для работы с YARA
+
+![image](https://github.com/user-attachments/assets/6729b9c9-8bc1-4cee-b0b6-bf2e115f8419)
+
+![image](https://github.com/user-attachments/assets/eca1699d-d7e8-4d51-a0b3-480d76a71e5c)
+
