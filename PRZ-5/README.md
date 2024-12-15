@@ -65,4 +65,18 @@
 
 ![image](https://github.com/user-attachments/assets/b90c15db-5dc0-46df-8f19-9a637bf39fce)
 
-![image](https://github.com/user-attachments/assets/f8bdfd94-5763-4b9a-8792-af8f03c2ec20)
+
+## 7. Скачиваем Suricata
+
+![image](https://github.com/user-attachments/assets/f6a412ca-dfc7-42c5-902d-4159089b7282)
+
+![image](https://github.com/user-attachments/assets/5bf26f17-3be2-4582-a67d-423b59775058)
+
+## 8. Кофинг Suricata 
+
+![image](https://github.com/user-attachments/assets/27401bd8-ee8f-4669-8390-8615e3b3aa98)
+
+![image](https://github.com/user-attachments/assets/96cf3118-7470-4622-a061-3829a4151b29)
+
+![image](https://github.com/user-attachments/assets/5044ec32-969e-42bc-96b0-343a59724fb9)
+
