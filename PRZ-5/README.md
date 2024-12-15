@@ -107,3 +107,7 @@
 
 ![image](https://github.com/user-attachments/assets/eca1699d-d7e8-4d51-a0b3-480d76a71e5c)
 
+## 13. Результат на Wazuh
+
+![image](https://github.com/user-attachments/assets/92b8881f-2715-46df-9e93-25c9a45b12c4)
+
