@@ -26,14 +26,8 @@
 ![image](https://github.com/user-attachments/assets/2aa91d47-51e1-4d57-906d-adab3f912602)
 
 
-## 4. Проверка видимости друг-друга
 
-
-
-
-
-
-## 5. Установка Wazuh
+## 4. Установка Wazuh
 
 Заходим под рутом и вводим команду " curl -sO htt://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a " для установки
 Так же нужно добавить флаг -i, чтобы убрать предупреждение
@@ -61,18 +55,18 @@
 
 ![image](https://github.com/user-attachments/assets/6f66f738-8001-4b47-86d4-1e947132193f)
 
-## 6. Установленный агент
+## 5. Установленный агент
 
 ![image](https://github.com/user-attachments/assets/b90c15db-5dc0-46df-8f19-9a637bf39fce)
 
 
-## 7. Скачиваем Suricata
+## 6. Скачиваем Suricata
 
 ![image](https://github.com/user-attachments/assets/f6a412ca-dfc7-42c5-902d-4159089b7282)
 
 ![image](https://github.com/user-attachments/assets/5bf26f17-3be2-4582-a67d-423b59775058)
 
-## 8. Кофинг Suricata 
+## 7. Кофинг Suricata 
 
 ![image](https://github.com/user-attachments/assets/27401bd8-ee8f-4669-8390-8615e3b3aa98)
 
