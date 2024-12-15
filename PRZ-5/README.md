@@ -60,7 +60,7 @@
 ![image](https://github.com/user-attachments/assets/b90c15db-5dc0-46df-8f19-9a637bf39fce)
 
 
-## 6. Скачиваем Suricata
+## 6. Скачиваем Suricata на клиентскую ВМ
 
 ![image](https://github.com/user-attachments/assets/f6a412ca-dfc7-42c5-902d-4159089b7282)
 
@@ -89,5 +89,9 @@
 
 ![image](https://github.com/user-attachments/assets/4e541aa1-3de1-4c4c-b987-7a613cf299a0)
 
+![image](https://github.com/user-attachments/assets/b2c1fb15-c8f6-4030-b6f8-68b5e0f62937)
 
 
+## 10. Установка Yara на клиентскую ВМ
+
+![image](https://github.com/user-attachments/assets/8c7be745-0a66-409d-9779-90e93f3441d3)
