@@ -81,5 +81,9 @@
 
 ![image](https://github.com/user-attachments/assets/aa1812ea-7839-4426-8e31-02e0ae229fc7)
 
-![image](https://github.com/user-attachments/assets/79017e33-ac41-4b46-966d-75d6a33c16ca)
+![image](https://github.com/user-attachments/assets/6900f14e-2929-4820-beb2-64cf943fdc9d)
+
+## 9. Провеерка Suricata
+
+На ВЬ Kali выполним ping клиентскую ВМ, проверка наличия обнаружения активности
 
